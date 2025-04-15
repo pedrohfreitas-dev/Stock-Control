@@ -6,7 +6,7 @@
 -  Listar todos os produtos
 -  Buscar produto por ID
 -  Filtrar produtos por categoria
--  Verificar produtos com estoque baixo (quantidade < 3)
+-  Verificar produtos com estoque baixo 
 -  Atualizar o preço de um produto
 -  Remover produto do estoque
 -  Exceções personalizadas com tratamento global
