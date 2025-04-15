@@ -21,6 +21,6 @@
 
 
 
-Este projeto está em evolução e foi criado com foco em aprendizado de Spring Boot e boas práticas de desenvolvimento de APIs REST, sendo parte do meu portfólio pessoal.
+📌 Este projeto está em evolução e foi criado com foco em aprendizado de Spring Boot e boas práticas de desenvolvimento de APIs REST, sendo parte do meu portfólio pessoal.
 
 
