@@ -1,8 +1,5 @@
  Stock-Control API
-
-Uma API REST simples desenvolvida em Java com Spring Boot para controle de estoque de produtos.  
-Ideal para fins de aprendizado e portfólio.
-
+ 
   Funcionalidades
 
 -  Adicionar um produto ao estoque
